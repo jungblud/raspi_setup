@@ -1,5 +1,6 @@
 # /etc/network/interfaces
 # the commented lines below are for hidden ssid
+# reboot pi after creating/editing this file
 
 auto lo
 
